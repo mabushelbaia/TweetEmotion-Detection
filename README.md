@@ -1,19 +1,27 @@
-# Tweet Emotion Detection
+# **Tweet Emotion Detection**
 This project is a part of the course "ENCS3340 Artificial Intelligence" in Birzeit University.
-## Documents 
-🔗 | [Report](docs/PDF/Report.pdf)      
+## **Documents** 
+🔗 | [Report](docs/PDF/report_final.pdf)      
 🔗 | [Results](docs/PDF/results.pdf)    
 🔗 | [Jupyter Notebook](src/main.ipynb)     
 
-## How to run
-1. Clone the repo
+## **Run the project**
+Clone the repo
 ```bash 
 git clone https://github.com/mabushelbaia/TweetEmotion-Detection
+cd TweetEmotion-Detection
 ```
-2. Install the requirements
+Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
-3. Follow steps in the [Jupyter Notebook](src/main.ipynb) to create the models
-4. Or use the already saved models by running [runner.py](src/runner.py) file
+Follow steps in the [Jupyter Notebook](src/main.ipynb) to create the models. Or use the already saved models by running [runner.py](src/runner.py) file. 
 ```bash
+cd src
+python runner.py
+```
+
+## **Author**
+👨| [Mohammad Abu-Shelbaia](https://github.com/mabushelbaia)
+
+
